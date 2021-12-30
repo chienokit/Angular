@@ -7,4 +7,5 @@ import { Component } from '@angular/core';
 })
 export class AppComponent {
   title = 'day12-DI';
+  currentIndex = 0;
 }
